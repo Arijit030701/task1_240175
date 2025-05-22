@@ -1,6 +1,6 @@
 # task1_240175
 # Cube Racing - Unity Game
-# Unity 6.1 is used to develop the game
+# Unity 6.1 is used to develop the 3D game
 ---
 
 **Cube Racing** is a Unity racing game developed as part of the "Task1: Make a Game in Unity" assignment
